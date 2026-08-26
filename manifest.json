@@ -1,0 +1,9 @@
+{
+  "name": "上海 9/12–9/18 行程",
+  "short_name": "上海行程",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f0df",
+  "theme_color": "#8a2d22",
+  "icons": []
+}
