@@ -1,2 +1,1 @@
-上海行程 App Master V8.2
-已更新：9/12 外灘19:00亮燈；9/16 外灘源＋乍浦路橋＋外白渡橋不同視角；9/18 郵政博物館＋北外灘。
+Shanghai trip app. Preparing V10 binary handdrawn image deployment.
